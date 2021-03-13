@@ -11,5 +11,4 @@ setInterval(() => {
     }else {
         icon.nextElementSibling.classList.add('change');
     }
-    console.log(counter)
 },3000)
